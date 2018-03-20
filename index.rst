@@ -11,3 +11,4 @@ Welcome to My Great Project's documentation!
    :caption: Contents:
 
    feature-a
+   feature-b
